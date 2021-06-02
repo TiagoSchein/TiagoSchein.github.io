@@ -110,6 +110,7 @@
     }
     
     .Experiencia{
+        position: relative;
         margin-top: 400px;
         margin-left: 155px;
     }
