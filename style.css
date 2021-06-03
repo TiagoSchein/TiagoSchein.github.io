@@ -159,3 +159,9 @@
         text-decoration: none;
         color: rgb(83, 45, 14);
     }
+
+    @media (max-widht: 600px) {
+        *{
+            font-family: Verdana, Tahoma, sans-serif;
+            }
+    }
