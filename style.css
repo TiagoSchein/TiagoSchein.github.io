@@ -160,8 +160,8 @@
         color: rgb(83, 45, 14);
     }
 
-    @media (max-widht: 800px) {
+@media (max-widht: 600px) {
         *{
-            font-family: Verdana, Tahoma, sans-serif;
-            }
+            background-color: red;
+            }     
     }
