@@ -6,7 +6,6 @@
     
     html,body{
         height: 150%;
-    
     }
     
     .parent{
@@ -91,6 +90,22 @@
         color: rgb(83, 45, 14);
     }
     
+    .Experiencia{
+        position: fixed;
+        margin-top: 80px;
+        margin-left: 0px;
+    }
+    
+    .Experiencia h2{
+        font-size: 46px;
+    }
+    
+    .Experiencia h3{
+        font-size: 30px;
+        color:rgb(83, 45, 14);
+    }
+    
+
     .Educação{
         margin-top: 200px;
     }
@@ -107,21 +122,6 @@
     .Educação p{
         color: rgb(83, 45, 14);
         font-size: 20px;
-    }
-    
-    .Experiencia{
-        position: fixed;
-        margin-top: 400px;
-        margin-left: 155px;
-    }
-    
-    .Experiencia h2{
-        font-size: 46px;
-    }
-    
-    .Experiencia h3{
-        font-size: 30px;
-        color:rgb(83, 45, 14);
     }
     
     .icons-social{
@@ -146,7 +146,7 @@
 
     .Créditos{
         background-color: dimgrey;
-        margin-top: 1000px;
+        margin-top: 150%;
         margin-left: 155px;
     }
 
